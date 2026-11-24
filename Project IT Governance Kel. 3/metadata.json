@@ -1,0 +1,6 @@
+{
+  "name": "SIMLAB",
+  "description": "Sistem Informasi Manajemen Alat Gelas Laboratorium — Prototype akademik untuk pelaporan kerusakan, verifikasi QA, pemantauan tindak lanjut, dan penyiapan ekspor data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
